@@ -1,0 +1,48 @@
+*** Arqam Changelog ***
+-------------------------------------------------------------------------
+
+Version 1.1.3 - 10-10-2013
+- Fixed: Google+ Counter issue, Now you need to enter your google page ID in Arqam panel.
+- Updated: Languages Files .
+- Updated: Plugin's Documentations .
+
+Files Updated
+- arqam.php
+- arqam-panel.php
+- assets/style.css
+
+
+-------------------------------------------------------------------------
+
+Version 1.1.2 - 15-08-2013
+- Fixed: Twitter Counter issue .. Now you need to set your APP Consumer key and Consumer secret  .
+- Improved: some styles issues .
+- Updated: Languages Files .
+- Updated: Plugin's Documentations .
+
+Files Updated
+- arqam.php
+- arqam-panel.php
+- assets/style.css
+
+
+-------------------------------------------------------------------------
+
+Version 1.1.1 - 05-08-2013
+- Fixed: Mailchimp Counter bug .
+
+Files Updated
+- arqam.php
+
+-------------------------------------------------------------------------
+
+Version 1.1.0 - 31-07-2013
+- Added: Foursquare Friends counter .
+- Added: Instagram Followers counter .
+- Added: MailChimp Subscribers counter.
+- Improved: Google plus and Cache functions .
+
+-------------------------------------------------------------------------
+
+Version 1.0.0
+- First release

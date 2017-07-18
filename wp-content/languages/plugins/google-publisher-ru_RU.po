@@ -1,0 +1,64 @@
+# Translation of Plugins - Google AdSense - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Google AdSense - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-10-17 21:07:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Google AdSense - Development (trunk)\n"
+
+#. Author URI of the plugin/theme
+msgid "https://support.google.com/adsense/answer/3380626"
+msgstr "https://support.google.com/adsense/answer/3380626"
+
+#. Author of the plugin/theme
+msgid "Google"
+msgstr "Google"
+
+#. Description of the plugin/theme
+msgid "Use Google AdSense and other Google tools with your WordPress site."
+msgstr "Используйте Google AdSense и другие инструменты Google на своем сайте под управлением WordPress."
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/google-publisher"
+msgstr "http://wordpress.org/plugins/google-publisher"
+
+#. Plugin Name of the plugin/theme
+msgid "Google AdSense"
+msgstr "Google AdSense"
+
+#: Utils.php:280
+msgid "You do not have sufficient permissions to access this page."
+msgstr "У вас недостаточно полномочий для доступа к этой странице."
+
+#: AdminTemplate.php:43
+msgid "If you don't have a Google account, you can <a href=\"https://accounts.google.com/SignUp\" target=\"_blank\">create one now</a>."
+msgstr "Если у вас нет аккаунта Google, <a href=\"https://accounts.google.com/SignUp\" target=\"_blank\">создайте его</a>."
+
+#: AdminTemplate.php:38
+msgid "Get started"
+msgstr "Начать работу"
+
+#: AdminTemplate.php:33
+msgid "You should use the Google account that you use for Google products that relate to this site. For example, if you have an AdSense account or a Google Analytics account that you use with this site, use the associated Google account."
+msgstr "Необходимо использовать тот аккаунт Google, который вы создали, чтобы работать с этим сайтом в продуктах Google (например, AdSense или Google Analytics)."
+
+#: AdminTemplate.php:31
+msgid "To use the AdSense Plugin, you need to sign in to your Google account."
+msgstr "Чтобы использовать Плагин AdSense, необходимо войти в аккаунт Google."
+
+#: Admin.php:166
+msgid "Settings"
+msgstr "Настройки"
+
+#: Admin.php:110
+msgid "Disable ads on this page"
+msgstr "Отключить показ рекламы на этой странице"
+
+#: Admin.php:92 AdminTemplate.php:28
+msgid "AdSense Plugin"
+msgstr "Плагин AdSense"
